@@ -38,4 +38,8 @@ nosetests.xml
 .komodotools/
 *.komodoproject
 
+# Visual Code
+.vscode/
+
 .DS_Store
+/Classes/BankAccounctManager/nbproject/private/
